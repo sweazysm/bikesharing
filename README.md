@@ -45,3 +45,23 @@ Similar to the data showing Checkout Times for Users in general, when Gender is 
 
 
 We have seen so far that the majority of Citibike users are subscribers who are overwhelmingly males that ride the citibikes during the beginning of the morning and the end of the work/school day. How does this hold up across the 7 days of the week? A heatmap was created to illustrate the times of this data. As was found in the last 2 visualizations, peak riding times across the work/school week (Monday - Friday) are 6am - 9am. Likewise, we also seek peak riding times at 4pm - 8pm, the times when we can expect people to be leaving work or class. Not surprisingly, during the workweek we do not see many people riding bikes between the hours of 10am - 3pm and likewise for very late times such as 10pm - 4am. We see slight differences during the weekend with a less populated, but more consistent, riding population between the hours of 9am - 7pm.
+
+
+### Trips by Weekday (per hours(by gender))
+<img width="1050" alt="Screen Shot 2021-10-10 at 12 33 36 AM" src="https://user-images.githubusercontent.com/86274124/136686196-805abdc5-4f6e-44fd-b547-b2de333706bc.png">
+
+
+As with the visualizations that looked at the relation between ride duration and gender, we also have a variation of the visualization for Trips by Weekday per hour by gender. These heatmaps are almost identical in pattern to the one above, the only difference in the populations of citibike users. As it was determined that our main population of citibike riders is male, the majority of data points can be seen in the Male Heatmap as opposed to the lighter Female Heatmap and the almost non-existant Unknown Heatmap. Across time Males dominate the citibike usage during the peak hours and the off hours.
+
+
+### User Trips by Gender: Customers vs Subscribers across the Weekday and Weekend 
+
+
+<img width="1052" alt="Screen Shot 2021-10-10 at 12 33 45 AM" src="https://user-images.githubusercontent.com/86274124/136686296-391c00e5-b61e-4fab-8d45-83c9d4103ce4.png">
+
+Finally we come to a final breakdown of data points from our visualizations. What is shown here are the amount of times a citibike was used on what day, by what gender, divided into subscribers and customers. The data is simple and clear: the overwhelming usage is not only male but it is from subscribers. Monday, Tuesday, Thursday, and Friday appear to be great days for citibike usage amongst males making these the peak earning times for Citibike. 
+
+
+# Summary
+
+From the data posed here it can be suggested that Citibike could be successful in Des Moines if it targets mostly males during the weekday. Males overwhelming domiinate the number of bike rides found and would be the best to target subscriptions to. It is best to target people during the weekday, coming to and from school or work. Citibike would, I suggest, be best suited to target males with a cheap, healthy, and environmentally friendly way of getting to and from their daily destinations. While this is a simple answer it also implies other things that need be graphed. One of these is that citibikes most likely will need to be repaired. While we can look at peak and hours and suggest times from those visualizations, it would be best to create a visualization showing the times and days with the least amount of citibike riders across demographics and use these times to repair the bikes. Another visualization that could be explored from this is how to bring in more of the female demographic. Where are their citibikes stopping off at? What are they taking as opposed to citibike? What attracts them to citibike? It seems that the male population is in the bag with that citibike is doing, but bringing in more of the female demographic could lead to increased porfits for citbike. 
