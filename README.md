@@ -29,3 +29,11 @@ The Citibike got plenty of uses ini August of 2019. Specifiically, the times whe
 ### Checkout Times for Users
 
 <img width="1019" alt="Screen Shot 2021-10-10 at 12 33 05 AM" src="https://user-images.githubusercontent.com/86274124/136684352-0aaff509-4be0-4060-9696-f3a99cadb9da.png">
+
+Checkout times for users shows the relation between the number of citibikes being used and the amount of time they were ridden. For example, we can see from this chart that an overwhelming amount of bikes were ridden for around 5 minutes. As times goes on, the amount of bikes ridden for longer times decreases, showing that the majority of bike rides with citibike were around 5 minutes. A sharp decline occurs and stagnates at around an hour, staying steady across further timespans. This shows that the majority of people who use citibike only need it for short rides and are most likely staying within a close proximity to their destinations/not much travel is being conducted.
+
+
+### Checkout Times by Gender
+<img width="1051" alt="Screen Shot 2021-10-10 at 12 33 14 AM" src="https://user-images.githubusercontent.com/86274124/136685414-cedbac75-9589-44a6-a17e-f012dae141ba.png">
+
+Similar to the data showing Checkout Times for Users in general, when Gender is added to the variable we see similar yet differing results. The results are similar to those shown above in that the majority of rides appear to last within the range of 5 minutes. What becomes more clear is that an overwhelming amount of these rides conducted in the first hour are conducted by males as opposed to females. A small minority are unknown/their gender is not reported in the dichotomy. What can be garnered from this is that it appears that the majority of citibike users, for the population observed in August, are male. Citibike would most likely have greater Citibike usage by targeting the male demographic as a result.
