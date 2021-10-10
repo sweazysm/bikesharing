@@ -37,3 +37,11 @@ Checkout times for users shows the relation between the number of citibikes bein
 <img width="1051" alt="Screen Shot 2021-10-10 at 12 33 14 AM" src="https://user-images.githubusercontent.com/86274124/136685414-cedbac75-9589-44a6-a17e-f012dae141ba.png">
 
 Similar to the data showing Checkout Times for Users in general, when Gender is added to the variable we see similar yet differing results. The results are similar to those shown above in that the majority of rides appear to last within the range of 5 minutes. What becomes more clear is that an overwhelming amount of these rides conducted in the first hour are conducted by males as opposed to females. A small minority are unknown/their gender is not reported in the dichotomy. What can be garnered from this is that it appears that the majority of citibike users, for the population observed in August, are male. Citibike would most likely have greater Citibike usage by targeting the male demographic as a result.
+
+
+### Trips by Weekday (per hour)
+
+<img width="1051" alt="Screen Shot 2021-10-10 at 12 33 26 AM" src="https://user-images.githubusercontent.com/86274124/136686014-7d7a5bd9-e5d6-4eff-ad2b-26a6bba94987.png">
+
+
+We have seen so far that the majority of Citibike users are subscribers who are overwhelmingly males that ride the citibikes during the beginning of the morning and the end of the work/school day. How does this hold up across the 7 days of the week? A heatmap was created to illustrate the times of this data. As was found in the last 2 visualizations, peak riding times across the work/school week (Monday - Friday) are 6am - 9am. Likewise, we also seek peak riding times at 4pm - 8pm, the times when we can expect people to be leaving work or class. Not surprisingly, during the workweek we do not see many people riding bikes between the hours of 10am - 3pm and likewise for very late times such as 10pm - 4am. We see slight differences during the weekend with a less populated, but more consistent, riding population between the hours of 9am - 7pm.
